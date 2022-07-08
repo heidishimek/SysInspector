@@ -47,12 +47,6 @@ make test run='4 8 12'
 make test run=4 debug=on
 ```
 
-If you are satisfied with the state of your program, you can also run the test cases on the grading machine. Check your changes into your project repository and then run:
-
-```
-make grade
-```
-
 ## Demo Run
 
 <img width="558" alt="test_img" src="https://user-images.githubusercontent.com/60202581/156500672-cac321ea-fa0c-45b8-aaad-5a6c8fdb7b10.png">
